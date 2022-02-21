@@ -15,7 +15,7 @@
 <a href="https://www.lowgif.com/611f42f31af0842c.html" target="_blank"><img id="editableimage2" src="https://cdn.lowgif.com/full/611f42f31af0842c-.gif" border="0" alt="raphaeltorquat0" width="1000px" height="500px"/></a>
 <h3> About Me </h3>
   
-Hi, i'm [Raphael Torquato](https://raphaeltorquat0.me/) I'm 28 years old, I'm a Global Mobile Tech Lead from Moochies. <br/> 
+Hi, i'm [Raphael Torquato](https://raphaeltorquat0.me/)  <br/> 
 <h5>I'm passionate about technology, discovering things and challenging the status quo. <br/>
 I love software architecture,
 build elegant interfaces, 
