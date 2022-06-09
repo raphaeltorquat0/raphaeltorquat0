@@ -6,8 +6,6 @@
 <a href="https://www.linkedin.com/in/raphaeltorquato/">
   <img align="left" alt="RaphaelTorqua0 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/martinitorquato">
-  <img align="left" alt="RaphaelTorquat0 Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="mailto:raphael.martini@live.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/euraphaeltorquato"><img src="https://img.shields.io/badge/-@euraphaeltorquato-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
