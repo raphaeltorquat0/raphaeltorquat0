@@ -29,6 +29,6 @@ refactor codes to make them more elegant and maintainable.</h5>
 </p>
 <br/>
 <h3>
-<p align="left"> <img src="[https://github-readme-stats.vercel.app/api?username=raphaeltorquat0&show_icons=true&theme=gotham]" alt="raphaeltorquat0" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=raphaeltorquat0&show_icons=true&theme=gotham&hide=contribs,issues" alt="raphaeltorquat0"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeltorquat0&theme=gotham&wakatime" alt= "raphaeltorquat0"/> </h3>
 <br/>
