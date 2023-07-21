@@ -1,16 +1,4 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=raphaeltorquat0.raphaeltorquat0)
-<a href="https://discord.gg/Raphael_Torquato#9346">
-  <img align="left" alt="RaphaelTorquat0 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/raphaeltorquato/">
-  <img align="left" alt="RaphaelTorqua0 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</a>
-<a href="mailto:raphael.martini@live.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/euraphaeltorquato"><img src="https://img.shields.io/badge/-@euraphaeltorquato-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<br />
-<a href="https://www.lowgif.com/611f42f31af0842c.html" target="_blank"><img id="editableimage2" src="https://cdn.lowgif.com/full/611f42f31af0842c-.gif" border="0" alt="raphaeltorquat0" width="1000px" height="500px"/></a>
 <h3> About Me </h3>
   
 Hi, i'm [Raphael Torquato](https://raphaeltorquat0.me/)  <br/> 
