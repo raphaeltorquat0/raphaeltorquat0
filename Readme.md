@@ -29,9 +29,41 @@ I help startups and scale-ups transform ideas into production-ready solutions wi
 
 ---
 
+## ⭐ Highlights
+
+- +12 years in software engineering
+- Real-world CTO experience
+- AI/ML specialist (YOLO, CoreML)
+- Full-stack delivery: Mobile, Backend, Cloud
+- Team mentoring and leadership
+
+---
+
+## 🤖 AI/ML Expertise
+
+- Object Detection (YOLO, Vision/CoreML)  
+- Real-time streaming analysis  
+- Integration with NVIDIA Jetson  
+- Model deployment and optimization
+
+---
+
+## 🛠️ Tech Stack
+
+![iOS](https://img.shields.io/badge/iOS-Swift%20%7C%20ObjC-blue)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-blueviolet)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![NestJS](https://img.shields.io/badge/NestJS-red)
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Redis](https://img.shields.io/badge/Cache-Redis-red)
+![AI/ML](https://img.shields.io/badge/AI-Computer%20Vision-brightgreen)
+
+---
+
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/raphaeltorquato/)
 - [Email](mailto:martinitorquato@gmail.com)
 
-💼 **Available for Fractional CTO, Consulting, and Technical Advisory engagements. Let's talk!**
+💼 **Currently available for Fractional CTO roles, Consulting, and Technical Advisory. Let’s discuss your project!**
