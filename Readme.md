@@ -9,7 +9,7 @@ Below you will find this profile **in English 🇺🇸** and **in Portuguese �
 # 👋 Hi, I'm Raphael Torquato
 
 👨‍💻 **Fractional CTO / CTO as a Service**  
-+12 years of experience building, architecting, and delivering robust, scalable digital products.
++14 years of experience building, architecting, and delivering robust, scalable digital products.
 
 I help startups and scale-ups transform ideas into production-ready solutions with solid technology strategy and hands-on execution.
 
@@ -39,7 +39,7 @@ I help startups and scale-ups transform ideas into production-ready solutions wi
 
 ## ⭐ Highlights
 
-- +12 years in software engineering
+- +14 years in software engineering
 - Real-world CTO experience
 - AI/ML specialist (YOLO, CoreML)
 - Full-stack delivery: Mobile, Backend, Cloud
@@ -88,7 +88,7 @@ I help startups and scale-ups transform ideas into production-ready solutions wi
 # 👋 Olá, sou Raphael Torquato
 
 👨‍💻 **CTO as a Service / CTO Fractional**  
-+12 anos de experiência construindo, arquitetando e entregando produtos digitais robustos e escaláveis.
++14 anos de experiência construindo, arquitetando e entregando produtos digitais robustos e escaláveis.
 
 Ajudo startups e scale-ups a transformar ideias em soluções prontas para produção com estratégia tecnológica sólida e execução prática.
 
@@ -118,7 +118,7 @@ Ajudo startups e scale-ups a transformar ideias em soluções prontas para produ
 
 ## ⭐ Principais destaques
 
-- +12 anos em engenharia de software
+- +14 anos em engenharia de software
 - Experiência real como CTO
 - Especialista em IA/ML (YOLO, CoreML)
 - Entrega full-stack: Mobile, Backend, Cloud
