@@ -74,7 +74,6 @@ I help startups and scale-ups transform ideas into production-ready solutions wi
 - [LinkedIn](https://www.linkedin.com/in/raphaeltorquato/)
 - [Email](mailto:martinitorquato@gmail.com)
 
-💼 **Available for Fractional CTO roles, Technical Advisory, and Consulting.**  
 👉 *Let’s talk about how I can help your startup grow and scale.*
 
 ---
@@ -153,7 +152,6 @@ Ajudo startups e scale-ups a transformar ideias em soluções prontas para produ
 - [LinkedIn](https://www.linkedin.com/in/raphaeltorquato/)
 - [Email](mailto:martinitorquato@gmail.com)
 
-💼 **Disponível para atuar como CTO fractional, consultoria e assessoria técnica.**  
 👉 *Vamos conversar sobre como posso ajudar sua startup a crescer e escalar.*
 
 ---
