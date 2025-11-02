@@ -44,41 +44,6 @@ I'm a seasoned **Fractional CTO** specializing in building robust, scalable digi
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎨 E-Commerce Mobile Platform
-**Marketplace app with inventory management and real-time sync**
-- **Stack**: Swift (iOS), TypeScript (Backend), PostgreSQL
-- **Features**: Inventory tracking, Order management, Payment integration
-- **Design**: Clean architecture with offline-first approach
-- **Scale**: Native iOS app with scalable backend microservices
-
-### 🏙️ IoT Analytics Platform
-**Real-time data processing platform for smart solutions**
-- **Stack**: NestJS, FastAPI, React Native, TensorFlow
-- **Features**: IoT integration, Real-time analytics, Predictive ML models
-- **Scale**: Multi-tenant architecture, handling high-volume event streams
-
-### 🤖 ML Trading Analysis
-**Financial analysis system with ML predictions**
-- **Stack**: Python, TensorFlow, Financial APIs
-- **Features**: Real-time market data processing, Pattern recognition
-- **Performance**: High-performance backtesting engine
-
-### 🎮 FoundryVTT Modules
-**Custom game modules for virtual tabletop RPG**
-- **Stack**: JavaScript, HTML5, FoundryVTT API
-- **Projects**: Porto de Brumas Negras (Forbidden Lands setting)
-- **Community**: Open-source contributions
-
-### 📱 Cross-Platform Mobile Solutions
-**Native and cross-platform mobile development**
-- **Stack**: Swift, Kotlin, Flutter, Kotlin Multiplatform (KMP)
-- **Expertise**: iOS/Android native apps, shared business logic
-- **Benefits**: Code reusability, native performance, unified architecture
-
----
-
 ## 🛠️ Tech Stack
 
 ### Mobile Development
@@ -225,41 +190,6 @@ Sou um **CTO Fractional** experiente, especializado em construir produtos digita
 - **Desenvolvimento Mobile** - iOS/Android nativo e soluções cross-platform
 - **Arquitetura Cloud** - Sistemas backend escaláveis e microserviços
 - **Liderança de Times** - Mentoria de engenharia e melhores práticas
-
----
-
-## 🏆 Projetos em Destaque
-
-### 🎨 Plataforma Mobile E-Commerce
-**App de marketplace com gestão de inventário e sync em tempo real**
-- **Stack**: Swift (iOS), TypeScript (Backend), PostgreSQL
-- **Features**: Controle de estoque, Gestão de pedidos, Integração de pagamento
-- **Design**: Clean architecture com abordagem offline-first
-- **Escala**: App iOS nativo com backend de microserviços escalável
-
-### 🏙️ Plataforma de Analytics IoT
-**Plataforma de processamento de dados em tempo real para soluções inteligentes**
-- **Stack**: NestJS, FastAPI, React Native, TensorFlow
-- **Features**: Integração IoT, Analytics real-time, Modelos ML preditivos
-- **Escala**: Arquitetura multi-tenant, processando streams de alto volume
-
-### 🤖 Análise de Trading com ML
-**Sistema de análise financeira com predições ML**
-- **Stack**: Python, TensorFlow, APIs Financeiras
-- **Features**: Processamento de dados de mercado em tempo real, Reconhecimento de padrões
-- **Performance**: Engine de backtesting de alta performance
-
-### 🎮 Módulos FoundryVTT
-**Módulos customizados para mesa de RPG virtual**
-- **Stack**: JavaScript, HTML5, FoundryVTT API
-- **Projetos**: Porto de Brumas Negras (ambientação Forbidden Lands)
-- **Comunidade**: Contribuições open-source
-
-### 📱 Soluções Mobile Cross-Platform
-**Desenvolvimento mobile nativo e cross-platform**
-- **Stack**: Swift, Kotlin, Flutter, Kotlin Multiplatform (KMP)
-- **Expertise**: Apps nativos iOS/Android, lógica de negócio compartilhada
-- **Benefícios**: Reusabilidade de código, performance nativa, arquitetura unificada
 
 ---
 
