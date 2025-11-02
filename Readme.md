@@ -46,29 +46,24 @@ I'm a seasoned **Fractional CTO** specializing in building robust, scalable digi
 
 ## 🏆 Featured Projects
 
-### 🏙️ Smart City Platform
-**Full-stack smart city solution with real-time analytics**
+### 🎨 E-Commerce Mobile Platform
+**Marketplace app with inventory management and real-time sync**
+- **Stack**: Swift (iOS), TypeScript (Backend), PostgreSQL
+- **Features**: Inventory tracking, Order management, Payment integration
+- **Design**: Clean architecture with offline-first approach
+- **Scale**: Native iOS app with scalable backend microservices
+
+### 🏙️ IoT Analytics Platform
+**Real-time data processing platform for smart solutions**
 - **Stack**: NestJS, FastAPI, React Native, TensorFlow
 - **Features**: IoT integration, Real-time analytics, Predictive ML models
-- **Scale**: Multi-tenant architecture, handling 100K+ daily events
+- **Scale**: Multi-tenant architecture, handling high-volume event streams
 
-### 🛡️ Citizen Guardian
-**Personal safety app with automated recording (iOS/Android)**
-- **Stack**: Swift (iOS), Kotlin (Android), NestJS BFF
-- **Features**: Background recording, Cloud sync, AI-powered video analysis
-- **Impact**: Empowering personal safety through technology
-
-### 🎨 App Cerâmica
-**Marketplace for artisanal ceramics with inventory management**
-- **Stack**: Swift (iOS), TypeScript (Backend), PostgreSQL
-- **Features**: Inventory tracking, Firing scheduler, Order management
-- **Design**: Clean architecture with offline-first approach
-
-### 💰 AI Trading System
-**Automated trading system with GPU acceleration**
-- **Stack**: Python, TensorFlow, Binance API, NVIDIA H200
-- **Features**: Real-time market analysis, ML-based predictions
-- **Performance**: Sub-second execution with GPU optimization
+### 🤖 ML Trading Analysis
+**Financial analysis system with ML predictions**
+- **Stack**: Python, TensorFlow, Financial APIs
+- **Features**: Real-time market data processing, Pattern recognition
+- **Performance**: High-performance backtesting engine
 
 ### 🎮 FoundryVTT Modules
 **Custom game modules for virtual tabletop RPG**
@@ -76,11 +71,11 @@ I'm a seasoned **Fractional CTO** specializing in building robust, scalable digi
 - **Projects**: Porto de Brumas Negras (Forbidden Lands setting)
 - **Community**: Open-source contributions
 
-### 📱 Kotlin Multiplatform Apps
-**Cross-platform mobile development**
-- **Stack**: Kotlin Multiplatform (KMP), Compose Multiplatform
-- **Projects**: Guardian reporting system (iOS/Android/Desktop)
-- **Benefits**: 80% code sharing across platforms
+### 📱 Cross-Platform Mobile Solutions
+**Native and cross-platform mobile development**
+- **Stack**: Swift, Kotlin, Flutter, Kotlin Multiplatform (KMP)
+- **Expertise**: iOS/Android native apps, shared business logic
+- **Benefits**: Code reusability, native performance, unified architecture
 
 ---
 
@@ -235,29 +230,24 @@ Sou um **CTO Fractional** experiente, especializado em construir produtos digita
 
 ## 🏆 Projetos em Destaque
 
-### 🏙️ Plataforma Smart City
-**Solução full-stack de cidade inteligente com analytics em tempo real**
+### 🎨 Plataforma Mobile E-Commerce
+**App de marketplace com gestão de inventário e sync em tempo real**
+- **Stack**: Swift (iOS), TypeScript (Backend), PostgreSQL
+- **Features**: Controle de estoque, Gestão de pedidos, Integração de pagamento
+- **Design**: Clean architecture com abordagem offline-first
+- **Escala**: App iOS nativo com backend de microserviços escalável
+
+### 🏙️ Plataforma de Analytics IoT
+**Plataforma de processamento de dados em tempo real para soluções inteligentes**
 - **Stack**: NestJS, FastAPI, React Native, TensorFlow
 - **Features**: Integração IoT, Analytics real-time, Modelos ML preditivos
-- **Escala**: Arquitetura multi-tenant, processando 100K+ eventos diários
+- **Escala**: Arquitetura multi-tenant, processando streams de alto volume
 
-### 🛡️ Cidadão Guardião
-**App de segurança pessoal com gravação automatizada (iOS/Android)**
-- **Stack**: Swift (iOS), Kotlin (Android), NestJS BFF
-- **Features**: Gravação em background, Sync na nuvem, Análise de vídeo com IA
-- **Impacto**: Empoderando segurança pessoal através de tecnologia
-
-### 🎨 App Cerâmica
-**Marketplace de cerâmica artesanal com gestão de inventário**
-- **Stack**: Swift (iOS), TypeScript (Backend), PostgreSQL
-- **Features**: Controle de estoque, Agendador de queimas, Gestão de pedidos
-- **Design**: Clean architecture com abordagem offline-first
-
-### 💰 Sistema de Trading com IA
-**Sistema de trading automatizado com aceleração GPU**
-- **Stack**: Python, TensorFlow, Binance API, NVIDIA H200
-- **Features**: Análise de mercado em tempo real, Predições baseadas em ML
-- **Performance**: Execução sub-segundo com otimização GPU
+### 🤖 Análise de Trading com ML
+**Sistema de análise financeira com predições ML**
+- **Stack**: Python, TensorFlow, APIs Financeiras
+- **Features**: Processamento de dados de mercado em tempo real, Reconhecimento de padrões
+- **Performance**: Engine de backtesting de alta performance
 
 ### 🎮 Módulos FoundryVTT
 **Módulos customizados para mesa de RPG virtual**
@@ -265,11 +255,11 @@ Sou um **CTO Fractional** experiente, especializado em construir produtos digita
 - **Projetos**: Porto de Brumas Negras (ambientação Forbidden Lands)
 - **Comunidade**: Contribuições open-source
 
-### 📱 Apps Kotlin Multiplatform
-**Desenvolvimento mobile cross-platform**
-- **Stack**: Kotlin Multiplatform (KMP), Compose Multiplatform
-- **Projetos**: Sistema de denúncias Guardian (iOS/Android/Desktop)
-- **Benefícios**: 80% de compartilhamento de código entre plataformas
+### 📱 Soluções Mobile Cross-Platform
+**Desenvolvimento mobile nativo e cross-platform**
+- **Stack**: Swift, Kotlin, Flutter, Kotlin Multiplatform (KMP)
+- **Expertise**: Apps nativos iOS/Android, lógica de negócio compartilhada
+- **Benefícios**: Reusabilidade de código, performance nativa, arquitetura unificada
 
 ---
 
