@@ -4,11 +4,8 @@
 
 ### 🚀 Fractional CTO | Technical Architect | AI/ML & Mobile Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-10K_followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeltorquato/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinitorquato@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaeltorquat0)
 
-![Profile Views](https://komarev.com/ghpvc/?username=raphaeltorquat0&color=blueviolet&style=flat-square)
 
 </div>
 
