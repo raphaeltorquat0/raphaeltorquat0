@@ -2,7 +2,7 @@
 
 ## Raphael Torquato
 
-**Fractional CTO** · São Paulo, Brazil
+São Paulo, Brazil
 
 14+ years building scalable products. Currently leading technical strategy at stealth AI startups.
 
