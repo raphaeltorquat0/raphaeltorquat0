@@ -2,8 +2,6 @@
 
 ## Raphael Torquato
 
-São Paulo, Brazil
-
 14+ years building scalable products. Currently leading technical strategy at stealth AI startups.
 
 ---
