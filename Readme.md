@@ -2,63 +2,69 @@
 
 ## Raphael Torquato
 
-I design and build systems that need to work  
-when scale, latency and complexity stop being theoretical.
+Staff Software Engineer focused on **platform and distributed systems**
+operating at scale, under real-world performance, reliability
+and regulatory constraints.
 
-14+ years working across architecture, AI and mobile platforms.  
-Currently leading technical decisions at stealth AI startups.
+14+ years of experience across **system architecture, data-intensive
+platforms, real-time systems and mobile ecosystems**.
+Currently contributing to and leading technical decisions
+at stealth AI startups.
 
 </div>
 
 ---
 
-### How I think
+### Technical focus
 
-I care about systems that **survive reality** — not slides.
+My work centers on **production-grade systems** where architecture,
+performance and reliability are first-order concerns.
 
-That usually means:
-- explicit architectural trade-offs
-- real-time and data-heavy workloads under operational constraints
-- platforms engineers can evolve without fear
+Typical problem spaces include:
+- distributed and event-driven architectures
+- real-time and data-heavy workloads
+- platforms designed for long-term evolution and operational stability
 
-I’m especially interested in problems where **scale, performance and data**
-intersect with real business and regulatory requirements.
+I am particularly interested in environments where **technical decisions
+directly impact business outcomes, compliance and operational risk**.
 
 ---
 
-### Featured product — IPTU API
+### Featured product — IPTU API  
+**Production Data Platform & Public API**
 
 **IPTU API** is a production SaaS that provides unified access to official
 property tax (IPTU) and real-estate data across major Brazilian cities.
 
-The core platform is private, but its public SDKs reflect how the system
-is designed for external consumption — with consistency, performance
-and developer experience as first-class concerns.
+While the core platform is private, its public SDKs and interfaces reflect
+the architectural principles used for external consumption:
+consistency, performance, reliability and developer experience.
 
 → https://iptuapi.com.br/
 
-This product represents how I approach:
-- API and platform design
-- data ingestion and normalization
-- performance, caching and operational trade-offs
+This product represents work on:
+- platform and API architecture
+- large-scale data ingestion and normalization
+- caching, performance and cost trade-offs
+- operational reliability in regulated environments
 - long-term maintainability for external consumers
 
 ---
 
-### Where I spend my time
+### Areas of expertise
 
-**System Architecture**  
-Distributed systems, event-driven platforms, cloud-native infrastructure
+**Platform & Distributed Systems**  
+Event-driven architectures, real-time platforms, data-intensive systems
 
 **AI & Real-Time Systems**  
-Computer vision pipelines, edge inference, video and data at scale
+Computer vision pipelines, streaming data, edge and backend inference
 
 **Mobile Platforms**  
 Native iOS/Android and cross-platform system design
 
 ---
 
-### Tools I reach for
+### Technologies
 
 `TypeScript` `Python` `Swift` `Kotlin`  
 `Node.js` `NestJS` `FastAPI`  
@@ -66,8 +72,9 @@ Native iOS/Android and cross-platform system design
 
 ---
 
-This GitHub is a curated set of projects and SDKs focused on
-architecture, performance and trade-offs in real-world systems.
+This GitHub contains a curated selection of projects, SDKs and experiments
+focused on **architecture, performance, reliability and technical trade-offs**
+in real-world production systems.
 
 ---
 
