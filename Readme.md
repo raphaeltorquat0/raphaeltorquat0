@@ -30,27 +30,6 @@ directly impact business outcomes, compliance and operational risk**.
 
 ---
 
-### Featured product — IPTU API  
-**Production Data Platform & Public API**
-
-**IPTU API** is a production SaaS that provides unified access to official
-property tax (IPTU) and real-estate data across major Brazilian cities.
-
-While the core platform is private, its public SDKs and interfaces reflect
-the architectural principles used for external consumption:
-consistency, performance, reliability and developer experience.
-
-→ https://iptuapi.com.br/
-
-This product represents work on:
-- platform and API architecture
-- large-scale data ingestion and normalization
-- caching, performance and cost trade-offs
-- operational reliability in regulated environments
-- long-term maintainability for external consumers
-
----
-
 ### Areas of expertise
 
 **Platform & Distributed Systems**  
