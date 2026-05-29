@@ -14,9 +14,7 @@ Previously built a real-time computer vision platform processing 2,000+ concurre
 
 **[infomance](https://github.com/raphaeltorquat0/infomance)** — European municipal data API. 98K municipalities, 34 countries. Python, FastAPI, Go, PostgreSQL, Dagster.
 
-**[eurotap](https://github.com/raphaeltorquat0/eurotap)** — Open Banking payment platform for Europe. Next.js, Prisma, Terraform, OpenTelemetry, Playwright + Cypress BDD.
-
-**[binance-ai-trading](https://github.com/raphaeltorquat0/binance-ai-trading)** — Automated trading system. NestJS, Python ML, NVIDIA H200 GPU, OpenTelemetry, Jaeger, WebSocket. 89KB Terraform IaC.
+**[QRinp](https://github.com/raphaeltorquat0/eurotap)** — Irish-registered fintech. QR payment infrastructure for Europe. Next.js, Prisma, Terraform, OpenTelemetry, Playwright + Cypress BDD.
 
 **[iptu-agent](https://github.com/raphaeltorquat0/iptu-agent)** — AI agent for property data queries. Google ADK, Go.
 
@@ -62,6 +60,7 @@ Previously built a real-time computer vision platform processing 2,000+ concurre
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat&logo=yolo&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/raphaeltorquato/) · [Email](mailto:martinitorquato@gmail.com) · [raphaeltorquato.io](https://raphaeltorquato.io)
