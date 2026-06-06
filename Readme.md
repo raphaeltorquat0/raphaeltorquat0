@@ -14,12 +14,6 @@ Previously built a real-time computer vision platform processing 2,000+ concurre
 
 **[infomance](https://github.com/raphaeltorquat0/infomance)** — European municipal data API. 98K municipalities, 34 countries. Python, FastAPI, Go, PostgreSQL, Dagster.
 
-**[QRinp](https://github.com/raphaeltorquat0/eurotap)** — Irish-registered fintech. QR payment infrastructure for Europe. Next.js, Prisma, Terraform, OpenTelemetry, Playwright + Cypress BDD.
-
-**[iptu-agent](https://github.com/raphaeltorquat0/iptu-agent)** — AI agent for property data queries. Google ADK, Go.
-
-**[map-3d-deck](https://github.com/raphaeltorquat0/map-3d-deck)** — Open-source geospatial 3D visualization. TypeScript, Deck.gl, MapLibre. Published on npm.
-
 ---
 
 ### Technologies
