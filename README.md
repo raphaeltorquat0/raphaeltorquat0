@@ -55,7 +55,7 @@ iOS and mobile until 2021, then backend and distributed systems, then real-time 
 
 ### Side projects
 
-- **[QuietBar](https://github.com/raphaeltorquat0/Quietbar):** control Sony headphones from the macOS menu bar.
+- **[Quietbar](https://github.com/raphaeltorquat0/Quietbar):** control Sony and JBL headphones from the macOS menu bar, with automatic noise cancelling on calls ([1.4.0 beta](https://github.com/raphaeltorquat0/Quietbar/releases/tag/v1.4.0-beta.1)).
 - **[QuietDeck](https://github.com/raphaeltorquat0/QuietDeck):** manage a Steam Deck from your Mac over SSH.
 
 ---
